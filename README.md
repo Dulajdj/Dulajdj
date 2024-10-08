@@ -6,9 +6,9 @@
 <td width="50%" align="left">
   
 
-- 🎓 I’m an Undergraduate**SLIIT**
+- 🎓 I’m an Undergraduate **SLIIT**
 
-- ✍️ I’m currently learning  **BSc (Hons) Degree in Information Technology**
+- ✍️ I’m currently learning **BSc (Hons) Degree in Information Technology**
 
 - 💬 Ask me about **Web designing | Data Entry**
 
@@ -32,9 +32,9 @@
 ---
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-<a href="https://linkedin.com/in/amashi sathisma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amashi sathisma" height="50" width="50" /></a>
-<a href="https://fb.com/amashi sathisma chandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amashi sathisma chandrasiri" height="50" width="50" /></a>
-<a href="https://instagram.com/amashi_sathisma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amashi_sathisma_" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/hansa-dulaj-94b2712aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hansa Dulaj" height="50" width="50" /></a>
+<a href="https://web.facebook.com/hansa.rox.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ĥáñsá Dúláj" height="50" width="50" /></a>
+<a href="https://www.instagram.com/hansa_dj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansa_dj_/" height="50" width="50" /></a>
 </p>
 
 ---
@@ -57,8 +57,8 @@
 
 <p align="center">
 <a href="https://github.com/amashisathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amashisathi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amashisathi&&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dulajdj&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dulajdj&&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

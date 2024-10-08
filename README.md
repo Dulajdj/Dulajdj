@@ -6,11 +6,15 @@
 <td width="50%" align="left">
   
 
-- ✍️ I’m currently learning  **Java**
+- 🎓 I’m an Undergraduate**SLIIT**
 
-- 🎓 I’m currently studying Software Engineering at the university of **SLIIT**
+- ✍️ I’m currently learning  **BSc (Hons) Degree in Information Technology**
 
-- ✉️ How to reach me **hansadjdulaj@gmail.com**
+- 💬 Ask me about **Web designing | Data Entry**
+
+- ✉️ How to reach me **dulajdjhansa@gmail.com**
+  
+- ⚡ Fun fact **call me as Hansa**
 
 
   

@@ -20,7 +20,7 @@
   
 </td>
 <td width="50%" align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amashisathi&label=Profile%20views&color=0e75b6&style=flat" alt="amashisathi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dulajdj&label=Profile%20views&color=0e75b6&style=flat" alt="Dulajdj" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -30,11 +30,13 @@
 </table>
 
 ---
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/hansa-dulaj-94b2712aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hansa Dulaj" height="50" width="50" /></a>
-<a href="https://web.facebook.com/hansa.rox.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ĥáñsá Dúláj" height="50" width="50" /></a>
-<a href="https://www.instagram.com/hansa_dj_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansa_dj_/" height="50" width="50" /></a>
+	<a href="mailto:dulajdjhansa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" height="40" width="120" alt="Gmail"/></a>
+	<a href="https://github.com/Dulajdj"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" height="40" width="120" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/hansa-dulaj-94b2712aa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" height="40" width="120" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/hansa_dj_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" height="40" width="120" alt="Instagram"/></a>
+	<a href="https://web.facebook.com/hansa.rox.3"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" height="40" width="120" alt="Facebook"/></a>
 </p>
 
 ---
@@ -55,17 +57,31 @@
 ---
  ⚙️ &nbsp;GitHub Analytics
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-<a href="https://github.com/amashisathi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dulajdj&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dulajdj&&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Dulajdj&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulajdj&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dulajdj&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
 ---
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/7oSkaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>

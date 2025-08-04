@@ -10,7 +10,7 @@
 
 - ✍️ I’m currently learning **BSc (Hons) Degree in Information Technology**
 
-- 💬 Ask me about **Web designing | Data Entry**
+- 💬 Ask me about **Web designing | Networking**
 
 - ✉️ How to reach me **dulajdjhansa@gmail.com**
   
